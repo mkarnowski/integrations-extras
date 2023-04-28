@@ -1,5 +1,9 @@
 # CHANGELOG - neo4j
 
+## 2.2.0 / 2022-03-28
+* [Changed] Update Neo4j Integration to support Neo4j 5. 
+* [Added] Added addtional [metrics](https://neo4j.com/docs/operations-manual/5/monitoring/metrics/reference/) to support Neo4j 5.
+
 ## 2.0.1 / 2022-08-22
 
 * [Added] Added causal_cluster read replica metrics. See [#1509](https://github.com/DataDog/integrations-extras/pull/1509).
